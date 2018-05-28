@@ -1,0 +1,25 @@
+{
+    "name": "teamspeak3-framework",
+    "type": "library",
+    "description": "TeamSpeak 3 PHP Framework refactored to by compatible with composer.",
+    "keywords": ["teamspeak3", "ts3", "serverquery", "framework", "api"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Łukasz Adamski"
+        },
+        {
+            "name": "Sven 'ScP' Paulsen",
+            "email": "scp@planetteamspeak.com",
+            "homepage": "https://www.planetteamspeak.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Adams\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
