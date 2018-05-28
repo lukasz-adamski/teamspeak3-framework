@@ -1,7 +1,7 @@
 {
-    "name": "teamspeak3-framework",
+    "name": "lukasz-adamski/teamspeak3-framework",
     "type": "library",
-    "description": "TeamSpeak 3 PHP Framework refactored to by compatible with composer.",
+    "description": "TeamSpeak 3 PHP Framework refactored to be compatible with composer.",
     "keywords": ["teamspeak3", "ts3", "serverquery", "framework", "api"],
     "license": "GPL-3.0",
     "authors": [
