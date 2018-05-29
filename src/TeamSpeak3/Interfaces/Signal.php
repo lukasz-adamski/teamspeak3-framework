@@ -22,7 +22,7 @@
  * @copyright Copyright (c) Planet TeamSpeak. All rights reserved.
  */
 
-namespace Adams\Interfaces;
+namespace Adams\TeamSpeak3\Interfaces;
 
 use Adams\TeamSpeak3\Adapter;
 use Adams\TeamSpeak3\Adapter\ServerQuery\Reply;
