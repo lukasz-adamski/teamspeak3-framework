@@ -4,6 +4,8 @@
     "description": "TeamSpeak 3 PHP Framework refactored to be compatible with composer.",
     "keywords": ["teamspeak3", "ts3", "serverquery", "framework", "api"],
     "license": "GPL-3.0",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Łukasz Adamski"
