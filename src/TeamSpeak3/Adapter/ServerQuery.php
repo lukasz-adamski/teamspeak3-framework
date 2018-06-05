@@ -108,7 +108,7 @@ class ServerQuery extends Adapter
       {
         $this->request("quit");
       }
-      catch(Exception $e)
+      catch(\Exception $e)
       {
         return;
       }
