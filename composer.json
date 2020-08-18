@@ -1,5 +1,5 @@
 {
-    "name": "lukasz-adamski/teamspeak3-framework",
+    "name": "rene-roscher/teamspeak3-framework",
     "type": "library",
     "description": "TeamSpeak 3 PHP Framework refactored to be compatible with composer.",
     "keywords": ["teamspeak3", "ts3", "serverquery", "framework", "api"],
@@ -14,6 +14,11 @@
             "name": "Sven 'ScP' Paulsen",
             "email": "scp@planetteamspeak.com",
             "homepage": "https://www.planetteamspeak.com"
+        },
+        {
+            "name": "René Roscher",
+            "email": "r.roscher@r-services.eu",
+            "homepage": "https://r-services.eu"
         }
     ],
     "autoload": {
