@@ -8,14 +8,6 @@
     "prefer-stable": true,
     "authors": [
         {
-            "name": "Łukasz Adamski"
-        },
-        {
-            "name": "Sven 'ScP' Paulsen",
-            "email": "scp@planetteamspeak.com",
-            "homepage": "https://www.planetteamspeak.com"
-        },
-        {
             "name": "René Roscher",
             "email": "r.roscher@r-services.eu",
             "homepage": "https://r-services.eu"
@@ -23,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Adams\\": "src/"
+            "rene-roscher\\": "src/"
         }
     },
     "require": {
