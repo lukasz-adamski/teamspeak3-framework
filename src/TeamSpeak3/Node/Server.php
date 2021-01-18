@@ -1933,7 +1933,7 @@ class Server extends Node
 
     $detail = $this->request("serversnapshotdeploy -mapping " . $data)->toList();
 
-    if(array_key_exists("sid", $detail[0]))
+    if(array_key_exists("sid", $detail))
     {
       Signal::getInstance()->emit("notifyServercreated", $this->getParent(), $detail[0]["sid"]);
 

@@ -35,7 +35,7 @@ use Adams\TeamSpeak3\Helper\Str;
  * @class ServerGroup
  * @brief Class describing a TeamSpeak 3 server group and all it's parameters.
  */
-class ServerGroup extends Note
+class ServerGroup extends Node
 {
   /**
    * The ServerGroup constructor.
